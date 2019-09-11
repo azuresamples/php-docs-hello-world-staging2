@@ -1,3 +1,3 @@
 <?php
 
-echo "Hello World! Staging2";
+echo "Hello World! Version 1.1.1";
